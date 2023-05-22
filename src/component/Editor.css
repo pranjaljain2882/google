@@ -1,0 +1,16 @@
+#container{
+    border: 2px solid grey;
+    height: 0px;
+    background-color: black;
+}
+
+#box{
+    /* border: 5px solid yellowgreen; */
+    height: 50px;
+    /* border-radius: 20%; */
+}
+
+.rule{
+    border: 2px solid green;
+    background-color: black;
+}
